@@ -1,0 +1,34 @@
+_repo: Little-Masterpieces-of-Science--The-Naturalist-as-Interpreter-and-Seer_29739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Iles, George
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '697'
+    url: http://www.gutenberg.org/2009/agents/697
+description: ''
+gutenberg_issued: '2009-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29739'
+  lccn: '02022703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+tableOfContents: 'The origin of species in summary / C. Darwin -- How "The origin
+  of species" came to be written / C. Darwin -- The descent of man : the argument
+  in brief / C. Darwin -- Mimicry and other protective resemblances among animals
+  / A. R. Wallace -- Evolution of the horse / T. H. Huxley -- Fighting pests with
+  insects allies / L. O. Howard -- The strange story of the flowers : a chapter in
+  modern botany / G. Iles.'
+title: 'Little Masterpieces of Science: The Naturalist as Interpreter and Seer'
+url: http://www.gutenberg.org/ebooks/29739
